@@ -2,7 +2,15 @@
 
 Company name: **ObzueAI**.
 
-This folder is the instructor brain only. Download or fork it, then copy the folder into ObzueAI Instructor. It does not import SI MemBrain, Matrix, or Cortex.
+This repository is one of three separate entities. It is not the web site and not the app.
+
+| Entity | Repository |
+| --- | --- |
+| Web | https://github.com/obzue/ObzueAI-Web |
+| App | https://github.com/obzue/ObzueAI-App |
+| Corta membrane | https://github.com/obzue/ObzueAI-Corta-Membrane |
+
+Copy this folder into ObzueAI Instructor when you want the brain. Do not merge the three repositories into one project.
 
 ## Sequence
 
